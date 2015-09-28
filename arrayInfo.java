@@ -1,5 +1,5 @@
 import java.math.*;
-public class arrayList {
+public class arrayInfo {
 
 	public static void main(String[] args) {
 		int[] arr = new int[10];
